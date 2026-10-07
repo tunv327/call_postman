@@ -1,5 +1,5 @@
 # call_postman
-1. Giới thiệu
+1. Giới thiệu<br>
    API Testing with Postman
 Bài thực hành nhằm tìm hiểu và sử dụng công cụ Postman trong kiểm thử API. Trong bài thực hành, em sử dụng Postman để gửi HTTP requests, kiểm tra response, kiểm tra status code, response body, response time và xây dựng các test script tự động.
 2. Thực hiện GET API
